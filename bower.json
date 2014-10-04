@@ -1,0 +1,51 @@
+{
+  "name": "QuizModule_v2",
+  "version": "2.0.0",
+  "authors": [
+    "Vrigz Alejo <nuedu2012@gmail.com>"
+  ],
+  "description": "Quiz Module for Senior High Program",
+  "keywords": [
+    "QuizModule",
+    "Laravel"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+    "angular": "~1.2.22",
+    "angular-resource": "~1.2.22",
+    "angular-cookies": "~1.2.22",
+    "angular-sanitize": "~1.2.22",
+    "angular-animate": "~1.2.22",
+    "angular-touch": "~1.2.22",
+    "angular-route": "~1.2.22",
+    "bootstrap": "~3.2.0",
+    "foundation": "~5.3.3",
+    "font-awesome": "~4.1.0",
+    "foundation-datepicker": "~1.0.0",
+    "nprogress": "~0.1.6",
+    "lightbox": "~2.7.1",
+    "responsive-tables": "*",
+    "jquery": ">= 2.1.1",
+    "modernizr": ">= 2.8.3",
+    "fastclick": ">=1.0.3",
+    "jquery.cookie": "~1.4.1",
+    "jquery-placeholder": "~2.0.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.22",
+    "angular-scenario": "~1.2.22"
+  },
+  "appPath": "app/assets/app"
+}
